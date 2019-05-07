@@ -1,5 +1,5 @@
 [![Release](https://img.shields.io/github/release/trustbloc/bloc-hub.svg?style=flat-square)](https://github.com/trustbloc/bloc-hub/releases/latest)
-[![Build Status](https://travis-ci.org/trustbloc/bloc-hub.svg?branch=master)](https://travis-ci.org/trustbloc/bloc-hub)
+[![Build Status](https://travis-ci.com/trustbloc/bloc-hub.svg?branch=master)](https://travis-ci.com/trustbloc/bloc-hub)
 
 [![codecov](https://codecov.io/gh/trustbloc/bloc-hub/branch/master/graph/badge.svg)](https://codecov.io/gh/trustbloc/bloc-hub)
 [![Go Report Card](https://goreportcard.com/badge/github.com/trustbloc/bloc-hub?style=flat-square)](https://goreportcard.com/report/github.com/trustbloc/bloc-hub)
