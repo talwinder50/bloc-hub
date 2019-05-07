@@ -1,0 +1,15 @@
+language: go
+go:
+  - "1.12.x"
+env:
+  - GO111MODULE=on
+install:
+  - curl -sfL https://install.goreleaser.com/github.com/golangci/golangci-lint.sh | sh -s v1.16.0
+jobs:
+  include:
+    - if: (type = pull_request) OR (type = push AND branch = master)
+      script: make integration-test && make checks &&
+        bash <(curl -s https://codecov.io/bash)
+    - if: tag IS present
+      script: make integration-test && make checks &&
+        bash <(curl -s https://codecov.io/bash)
