@@ -3,7 +3,7 @@
 
 [![codecov](https://codecov.io/gh/trustbloc/bloc-hub/branch/master/graph/badge.svg)](https://codecov.io/gh/trustbloc/bloc-hub)
 [![Go Report Card](https://goreportcard.com/badge/github.com/trustbloc/bloc-hub?style=flat-square)](https://goreportcard.com/report/github.com/trustbloc/bloc-hub)
-[![codebeat](https://codebeat.co/badges/16512202-9758-4e2e-b0b8-4121724680b8)](https://codebeat.co/projects/github-com-trustbloc-bloc-hub-master)
+[![codebeat badge](https://codebeat.co/badges/b6dd2c0d-dec3-48f7-9a4f-af11bb138a1d)](https://codebeat.co/projects/github-com-trustbloc-bloc-hub-master)
 [![GolangCI](https://golangci.com/badges/github.com/trustbloc/bloc-hub.svg)](https://golangci.com/r/github.com/trustbloc/bloc-hub)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://raw.githubusercontent.com/trustbloc/bloc-hub/master/LICENSE)
