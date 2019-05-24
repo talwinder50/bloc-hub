@@ -17,3 +17,5 @@ bin/
 
 # IDEs
 .idea/
+
+docs/build
